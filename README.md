@@ -1,0 +1,7 @@
+# Profile Picture Generator
+## Description:
+### - Currently generates asymmetrical 2-tone profile picture using rectangles in a 7 * 7 grid, like GitHub except not symettrical across the middle
+### - Released as executable using PyInstaller (https://stackoverflow.com/questions/5458048/how-can-i-make-a-python-script-standalone-executable-to-run-without-any-dependen)
+
+## Example Output:
+![output](https://github.com/user-attachments/assets/c0403190-c1cb-4618-8766-ffa566b0349b)
